@@ -1,5 +1,5 @@
 ## Angular Documentation QuickStart Changelog
-Upgraders: for a fresh start, consider running these commands 
+Upgraders: for a fresh start, consider running these commands !
 * `git clean -xdf` 
 * `npm install`
 
